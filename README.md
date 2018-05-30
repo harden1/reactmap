@@ -5,7 +5,7 @@ react使用echarts地图实现中国地图大区展示
 
 ## 项目截图
 
-![image](https://github.com/harden1/reactmap/raw/master/public/1.jpg)
+![image](https://github.com/harden1/reactmap/raw/master/public/1.png)
 
 
 
